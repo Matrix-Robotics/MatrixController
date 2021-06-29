@@ -4,7 +4,7 @@ and servo controller for use with the Matrix Robotics Building system. <br>
 communicate by I2C interface.
 
 ## Features
-Support 4 DC motor ports with built in encoders. <br>
+Support 4 DC motor ports with built-in encoders. <br>
 Support 4 servo outputs. <br>
 
 ## Repository Contents
