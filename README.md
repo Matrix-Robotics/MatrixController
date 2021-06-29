@@ -8,7 +8,7 @@ Support 4 DC motor ports with built-in encoders. <br>
 Support 4 servo outputs. <br>
 
 ## Repository Contents
-* [**/docs**](./docs) - MATRIX Color Sensor documentation.
+* [**/docs**](./docs) - MATRIX Controller documentation.
 * [**/examples**](./examples) - Example sketches for the library (.ino). Run these by Arduino IDE.
 * [**/src**](./src) - Source files for the library (.cpp, .h).
 
